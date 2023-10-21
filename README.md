@@ -18,10 +18,10 @@ The Breast Cancer Identifier (BCI) is a project aimed at leveraging deep learnin
    - Mark the result label in red if the likelihood is high ( > 0.8).
 
 ## Acknowledgments
-- Thanks to [OpenAI](https://www.openai.com/) for providing the language model for assistance.
+- Thanks to [OpenAI](https://www.openai.com/) for providing ChatGPT the for assistance.
 - Credits to contributors and libraries used in this project.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to Segev Peer peer.segev@gmail.com
+If you have any questions or suggestions, feel free to reach out to Segev Peer at peer.segev@gmail.com
 
 Enjoy early detection of breast cancer with BCI!
